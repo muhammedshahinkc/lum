@@ -123,11 +123,13 @@ font-weight: bolder;
     background-color: #5e068a;
     height: 73px;
     width: 6cm;
+    border: 2px solid #5e068a;
+    font-weight: 600;
 }
 .b1:hover
 {
-    color:#5e068a ;
-    background-color: white;
+    color:white ;
+    background-color:rgb(211, 144, 234);
 }
 .button3
 {

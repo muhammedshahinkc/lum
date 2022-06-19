@@ -1,0 +1,317 @@
+.header
+{
+    height: 1cm;
+    background-color:#5e068a;
+    color: white;
+    width: 100%;
+}
+.box
+{
+    height: 500px;
+    background-image: url("./image/5.jpg");
+}
+.left-header
+{
+    width: 50%;
+    padding-left: 192px;
+    padding-top: 7px;
+    float: left;
+    font-size: small;
+}
+.right-header
+{
+    width: 50%;
+    float: left;
+    padding-top: 7px;
+    padding-left: 248px;
+    font-size: small;
+}
+.bg-light {
+    margin-top: 5px;
+}
+
+
+.navbar-brand
+{
+    padding-left: 176px;
+}
+a{
+    color: gray;
+    
+}
+a:hover
+{
+color: blueviolet;
+font-weight: bolder;
+}
+.collapse-navbar-collapse{
+    padding-right: 200px;
+}
+
+
+
+.button2
+    
+{
+    background: #5e068a none repeat scroll 0 0;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 14px;
+    margin: 0;
+    padding: 15px 35px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    padding: 16px 27px;
+    font-weight: 600;
+    margin-top: 21px;
+    border-radius: 50px;
+    border: 2px solid #5e068a;
+
+}
+
+.container h3
+{
+    font-size: 32px;
+    margin-bottom: 20px;
+    padding-top: 22px;
+    color: #5e068a;
+    font-weight: 550;
+    max-width: 540px;
+    line-height: 1.2;
+    text-transform: capitalize;
+}
+.container-lastend  
+{
+    padding-top: 30px;
+}
+.card-body
+{
+    padding: 5px 25px 20px;
+    
+}
+.card-title
+{
+    color: #5e068a;
+
+}
+.card-text
+{
+    margin-bottom: 5px;
+    
+    font-family: Raleway,sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #414141;
+    font-weight: 545;
+}
+.btn-btn-primary{
+    font-weight: 500;
+    text-transform: uppercase;
+    background-color: #5e068a;
+    padding: 10px 18px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    
+}
+.b1
+{
+    color: white; 
+    border-radius: 50px;
+    background-color: #5e068a;
+    height: 73px;
+    width: 6cm;
+}
+.b1:hover
+{
+    color:#5e068a ;
+    background-color: white;
+}
+.button3
+{
+
+    padding: 16px 27px;
+    font-weight: 600;
+    margin-top: 68px;
+    border-radius: 50px;
+    border: 2px solid #5e068a;
+    color: #5e068a;
+    margin-bottom: 115px;
+    margin-left: 650px;
+    
+}
+.button3:hover
+{
+    color: #fff;
+    background-color: #5e068a;
+}
+
+.card-text
+ {
+    margin-bottom: 90px;
+    line-height: 1.7;
+ }
+
+
+.gallery
+{
+    padding-top: 70px;
+    
+    text-align: center;
+    color: #5e068a;
+    font-size: 35px;
+    font-weight: 700;
+    
+}
+.gallery-p
+{
+    text-align: center;
+    font-weight: 500;
+
+    padding-top: 20px;
+    color:rgb(50 50 52);
+    font-size: 14px;
+} 
+
+.wats
+{
+    
+    background: #5e068a14 none repeat scroll 0 0;
+    text-align: center;
+     color: #5e068a;
+    margin-top: 45px;
+    font-style: normal;
+     line-height: 6;
+    font-size: 24px;
+    
+}
+.container-footer 
+{
+    padding-top: 70px; 
+}
+ 
+.footer
+{  
+    
+    background: #1d0429 none repeat scroll 0 0;
+    color: #ffffff;
+    padding: 75px 0 366px;
+}
+.class-col-3
+
+{
+    float: left;
+    font-size: small;
+    margin-left: 63px;
+}
+.class-col-1
+
+{
+    
+    float: left ;
+    font-size: small;
+    margin-left: 150px;
+    margin-right:-15px;
+}
+.class-col-4
+
+{
+    
+    float: left ;
+    font-size: small;
+    margin-left: 145px;
+}
+.h1-footer
+{
+     
+    font-size: 24px;
+    line-height: 19px;
+    margin-bottom: 20px;
+    padding-top: 12px;
+    text-transform: uppercase;
+    color: #fff;
+}
+.footer-p
+{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 25px;
+    
+}
+.class-colum-6
+{
+    float: left;
+    padding-left: 162px;
+    font-weight: 600;
+    font-size: 14px;
+    padding-top: 20px;
+
+
+}.class-colum-6-1
+{
+    float: left;
+    padding-left: 505px;
+    font-weight: 600;
+    font-size: 14px;
+    padding-top: 20px;
+    
+
+} 
+.class-quote-1
+{
+float: left;
+margin-left: 250px;
+padding-top: 90px;
+
+}
+.class-quote-2
+{
+ margin-left: 650px;   
+ padding-top: 90px;
+
+}
+.quotes
+{
+    background-color: #f7f7f7;
+    padding: 19px 0px 116px;
+}
+.class-percentage
+{
+
+}
+.w1
+{
+    
+    height: 1cm;
+    width: 1cm;
+
+}
+.card
+{
+    --bs-card-border-width: 0px;
+}
+
+.center-image
+{
+    padding-top: 100px;
+    padding-bottom: 10px;
+    background-color: #f7f7f7;
+    padding-left: 500px;
+    
+
+}
+.our{
+    padding-left: 150px;
+
+    padding-bottom:25px ;
+}
+.h22
+{
+    color: #5e068a ;
+   
+}
+ .card{
+    --bs-card-border-width: -23px;
+ }
